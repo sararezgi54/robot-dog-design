@@ -47,4 +47,4 @@ The project focuses on designing the robot's body and legs while considering joi
 ---
 
 ## Author
-Sara Rezgi---
+Sara Rezgi
